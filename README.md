@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista seuraavaan kauppareissuun.
+Kauppalista perjantain kauppareissuun K-Supermarkettiin.
